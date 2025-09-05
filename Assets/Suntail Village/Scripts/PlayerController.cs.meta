@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4333728ea1b69e0468101e0dae4ae6a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203303
+  packageName: SUNTAIL - Stylized Fantasy Village
+  packageVersion: 1.1.6
+  assetPath: Assets/Suntail Village/Scripts/PlayerController.cs
+  uploadId: 706330

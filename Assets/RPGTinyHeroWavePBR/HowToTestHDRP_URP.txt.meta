@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd158ecebdab8ac4bb1e1a361ea9b151
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228701
+  packageName: RPG Tiny Hero Wave PBR
+  packageVersion: 1.0
+  assetPath: Assets/RPGTinyHeroWavePBR/HowToTestHDRP_URP.txt
+  uploadId: 747417

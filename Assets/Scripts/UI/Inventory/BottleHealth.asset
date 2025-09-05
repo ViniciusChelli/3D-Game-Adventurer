@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5fdb538de726c64bb62ca610f841178, type: 3}
+  m_Name: BottleHealth
+  m_EditorClassIdentifier: 
+  itemName: Health
+  desc: +25 HP
+  icon: {fileID: 21300000, guid: c8e7715e1462b6c46a44e0bf5063262e, type: 3}
+  prefab: {fileID: 1007191858888491101, guid: 3680dceacc097b14889586e72d9898cc, type: 3}
+  amount: 25
+  effect: 0

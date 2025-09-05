@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f33a3944d7082ee42b5a51ae9c09e7a2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182586
+  packageName: Low Poly Wind
+  packageVersion: 1.3.1
+  assetPath: Assets/Nicrom/Shaders/Wind/UpgradePackages/LPW_HDRP_Unity2022.2+.unitypackage
+  uploadId: 744555

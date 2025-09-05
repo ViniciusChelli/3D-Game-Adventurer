@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80ea372be8b680642aa4a22789467778
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173835
+  packageName: RPG Monster Wave 2 PBR
+  packageVersion: 1.6
+  assetPath: Assets/RPGMonsterWave02PBR/ChangeColorSpaceToLinearFromGamma.txt
+  uploadId: 634947

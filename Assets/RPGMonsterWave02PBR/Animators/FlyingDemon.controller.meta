@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fd087627b7d4477b410eeac5f370379
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173835
+  packageName: RPG Monster Wave 2 PBR
+  packageVersion: 1.6
+  assetPath: Assets/RPGMonsterWave02PBR/Animators/FlyingDemon.controller
+  uploadId: 634947
